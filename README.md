@@ -1,4 +1,4 @@
-# Real_Time_Bus_Tracker_Exercise
+# Real Time Bus Tracker Exercise
 ## The goal for this exercise was to bring in a map of Boston and MBTA bus data to show the bus stops in between MIT and Harvard using an animated marker stopping at each location.
 # How to Run
 ## To run through this exercise please fork the files to you local machine. Once you have the HTML, PNG, JS, and CSS files in VS you can drag the HTML file to your browser window.  Once the map has been generated you can click the button in the upper left hand corner of your machine and see the animated icon move across the screen to each bus stop between MIT and Harvard.
